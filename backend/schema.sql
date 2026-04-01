@@ -1,0 +1,1 @@
+SELECT * FROM eyana_library_db.admin;
